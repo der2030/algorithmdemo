@@ -1,5 +1,5 @@
 # algorithmdemo
-## 1 order 
+## 1 sort 
   1-1 Insert Order <br>
   1-2 Quick Order <br>
   1-3 Shell Order <br>
