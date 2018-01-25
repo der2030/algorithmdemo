@@ -5,3 +5,4 @@
   1-3 Shell Order <br>
 ## 2 data struts 
   2-1 Binary Tree <br> 
+  2-2 Single Linked List <br>
