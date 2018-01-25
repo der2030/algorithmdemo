@@ -35,6 +35,7 @@ public class LoadBalanceAlgorithm {
         return currentWeight;
     }
 
+
     public static Integer getMaxWeight() {
         return maxWeight;
     }
@@ -204,7 +205,7 @@ public class LoadBalanceAlgorithm {
           if((this.isDown&&down)||(!this.isDown&&!down)){
               return;
           }else{
-              //移除或恢复操作
+              //remove or restore option
               initOrReload();
           }
 
