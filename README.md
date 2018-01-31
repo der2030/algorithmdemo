@@ -6,5 +6,6 @@
 ## 2 data struts 
   2-1 Binary Tree <br> 
   2-2 Single Linked List <br>
+  2-3 Two-Way Linked List <br>
 ## 3 application
   3-1 Load Balance <br>  
