@@ -10,4 +10,6 @@
 ## 3 application
   3-1 Load Balance <br> 
   3-2 Robber Solution <br>
-  3-3 Parethes Solution <br> 
+  3-3 Parethes Solution <br>
+## 4 Game
+  4-1 TwentyFour Game   
